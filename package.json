@@ -4,8 +4,8 @@
 	"description": "CBOR encoder and decoder in TypeScript",
 	"license": "MIT",
 	"dependencies": {
-		"bignumber.js": "~3.0.0",
-		"commander": "^2.9",
+		"bignumber.js": "^4.0.4",
+		"commander": "^2.11.0",
 		"ieee754": "^1.1.8",
 		"json-text-sequence": "^0.1"
 	},
