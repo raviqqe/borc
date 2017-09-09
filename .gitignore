@@ -1,6 +1,3 @@
-node_modules
+*.js
 *.log
-test/setup/tmp-disposable-nodes-addrs.json
-dist
-coverage
-docs
+node_modules
