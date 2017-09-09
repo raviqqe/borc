@@ -12,5 +12,9 @@
 		"Patrick Gansterer <paroga@paroga.com>",
 		"Scorpi <cobblebone@gmail.com>",
 		"greenkeeperio-bot <support@greenkeeper.io>"
-	]
+	],
+	"devDependencies": {
+		"@types/jest": "^20.0.8",
+		"jest": "^21.0.2"
+	}
 }
