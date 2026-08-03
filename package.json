@@ -14,9 +14,9 @@
 		"greenkeeperio-bot <support@greenkeeper.io>"
 	],
 	"devDependencies": {
-		"@types/jest": "^20.0.8",
-		"jest": "^21.0.2",
-		"ts-jest": "^21.0.0",
+		"@types/jest": "^30.0.0",
+		"jest": "^30.4.2",
+		"ts-jest": "^29.4.12",
 		"typescript": "^2.5.2"
 	},
 	"jest": {
